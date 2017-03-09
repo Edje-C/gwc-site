@@ -2,7 +2,7 @@ body{
 	font-family: "Raleway";
 	color:black;
 	margin: 0;
-	background=url("laptopBackground.jpg");
+	background-image=url("laptopBackground.jpg");
 	background-color: white;
 	background-size: cover;
 	background-repeat: no-repeat;
