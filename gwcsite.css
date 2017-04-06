@@ -7,7 +7,7 @@ body{
 	background-color: white;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center center;
 	background-attachment: fixed;
 }
 
@@ -39,6 +39,7 @@ body{
 	font-size: 48px;
 	text-align: center;
 	margin-top: 5%;
+	margin-bottom: 2%;
 	font-weight: normal;
 	color:#F93348;
 }
